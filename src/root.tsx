@@ -5,7 +5,7 @@ import { Suspense } from "solid-js";
 import "./index.css";
 
 export default function Root() {
-  return (
+  return ( 
     <html lang="en">
       <head>
         <meta charset="utf-8" />

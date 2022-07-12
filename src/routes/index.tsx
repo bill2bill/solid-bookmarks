@@ -1,13 +1,11 @@
-import Counter from "~/components/Counter";
-
 export default function Home() {
   const data = [
-    "https://www.bbc.com?fqwfwaaddwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
+    // "https://www.bbc.com?fqwfwaaddwwwwwwaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaaa",
     "https://www.bbc.com",
     "https://www.bbc.com",
     "https://www.bbc.com?fqwfwa",
     "https://www.bbc.com",
-    "https://www.bbc.com?fqwfwaadwdawdawdawdafawfawfawfwafawfawfaw",
+    // "https://www.bbc.com?fqwfwaadwdawdawdawdafawfawfawfwafawfawfaw",
   ]
   const number = 1
 

@@ -10,7 +10,7 @@ export default function Home() {
   const number = 1
 
   return (
-    <main class="text-center mx-auto p-4">
+    <main>
       <h1 class="text-4xl md:text-6xl text-black uppercase m-8">B O O K M A R K S</h1>
       <div class="container mx-auto flex justify-center items-center flex-col">
         <div class="bg-white rounded px-6 py-2 mb-6">

@@ -1,5 +1,5 @@
 {
-  "name": "solid-todo",
+  "name": "solid-bookmarks",
   "scripts": {
     "dev": "solid-start dev",
     "build": "solid-start build",

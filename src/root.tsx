@@ -13,7 +13,7 @@ export default function Root() {
         <Meta />
         <Links />
       </head>
-      <body class="antialiased">
+      <body class="antialiased bg-gray-200">
         <ErrorBoundary>
           <Suspense>
             <Routes />
